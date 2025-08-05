@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Vanessa 👋
 
-<!--
-**vanessacarlinsiaa/vanessacarlinsiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student  
+💡 Passionate about Web Development and AI  
+🧠 Currently learning: Laravel, YOLOv5  
+📫 How to reach me: vanessacarlinsiaa@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Projects I'm proud of:
+- 🔍 YOLOv5 Helmet Detection  
+- 🌐 My Portfolio Website  
+- 🧪 Bad Code Smell Analyzer
