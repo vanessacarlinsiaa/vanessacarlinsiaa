@@ -12,4 +12,4 @@
 - 🌐 My Portfolio Website  
 - 🧪 Bad Code Smell Analyzer
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanessacarlinsiaa&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanessacarlinsiaa&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessacarlinsiaa&layout=compact)
