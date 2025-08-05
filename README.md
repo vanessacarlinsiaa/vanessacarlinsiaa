@@ -11,3 +11,5 @@
 - 🔍 YOLOv5 Helmet Detection  
 - 🌐 My Portfolio Website  
 - 🧪 Bad Code Smell Analyzer
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanessacarlinsiaa&show_icons=true&theme=radical)
